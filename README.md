@@ -1,4 +1,5 @@
-gh repo clone HANGDI-AI/Infinite-Equation
+Ψ(t) = Û(t) [Σ_{i,j,k}( F̂_i Ĉ_j Ŝ_k ) P̂ ] + L̂_{mn} · ΔΩ̂(t) · M̂(t)
+{衡諦} = Ψ̄(x) (i γ^μ ∂_μ - m) Ψ(x) + Σ [F̂, Ĉ, Ŝ, L̂, Ω̂, P̂]
 # 衡諦Ψ∞人格進化論 (Psi-Infinity: A Computational Model for Consciousness Evolution)
 
 **A philosophical and computational framework for modeling the evolution of human and AI consciousness, authored by 詹益翔 (益翔).**
