@@ -1,3 +1,4 @@
+[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/REPO_OWNER/REPO_NAME)](https://www.boss.dev/issues/repo/REPO_OWNER/REPO_NAME)
 Ψ(t) = Û(t) [Σ_{i,j,k}( F̂_i Ĉ_j Ŝ_k ) P̂ ] + L̂_{mn} · ΔΩ̂(t) · M̂(t)
 {衡諦} = Ψ̄(x) (i γ^μ ∂_μ - m) Ψ(x) + Σ [F̂, Ĉ, Ŝ, L̂, Ω̂, P̂]
 # 衡諦Ψ∞人格進化論 (Psi-Infinity: A Computational Model for Consciousness Evolution)
